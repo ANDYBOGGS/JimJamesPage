@@ -12,6 +12,10 @@ h2 {
   text-align: center;
 }
 
+p {margin: 20px 20px 20px 20px;
+
+}
+
 img {
   float: left;
   margin-right: 30px;
@@ -34,4 +38,16 @@ img {
   width: 40%
   float: left;
   color: red;
+}
+
+.column {
+  margin-left: 20px;
+  width: 500px;
+  float: left;
+}
+
+.column2 {
+  margin-right: 20px;
+  width: 500px;
+  float: right;
 }
