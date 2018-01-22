@@ -8,13 +8,30 @@ h1 {
   letter-spacing: .5em;
 }
 
+h2 {
+  text-align: center;
+}
+
 img {
   float: left;
   margin-right: 30px;
 }
 
+.float {
+  float: right;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
 .sidebar {
   width: 40%
   float: right;
+  color: red;
+}
+
+.sidebar2 {
+  margin-top: 40px;
+  width: 40%
+  float: left;
   color: red;
 }
